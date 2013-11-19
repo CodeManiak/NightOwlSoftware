@@ -35,8 +35,16 @@ body{
 }
 header{
 	min-width: 400px;
-	width: 550px;
-	max-width: 768px;
+	width: 964px;
+	max-width: 968px;
+	margin: 0 auto;
+	margin-bottom: 25px;
+}
+footer{
+	min-width: 400px;
+	width: 964px;
+	max-width: 968px;
+	float: left;
 	margin: 0 auto;
 	margin-bottom: 25px;
 }
@@ -79,7 +87,7 @@ section.center{
 section.center
 p{
 	min-width: 498px;
-	width: 500px;
+	width: 550px;
 	max-width: 498px;
 	margin-left:1px;
 	background: #FFFFFF;
